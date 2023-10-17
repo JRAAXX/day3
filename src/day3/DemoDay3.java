@@ -15,8 +15,12 @@ public class DemoDay3 {
 					System.out.println (Red+blue+white);
 					
 				}
-				public static void add (int Jessica) {
+				public static void add (int Jessica, int 5, int B) {
 					System.out.println ("Test");
+
+
+					String country ="USA";
+					String state ="VA";
 
 
 }
