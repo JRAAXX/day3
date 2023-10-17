@@ -21,7 +21,7 @@ public class DemoDay3 {
 
 					String country ="USA";
 					String state ="VA";
-
+					String name = "Jessica";
 
 }
 }
